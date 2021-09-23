@@ -38,10 +38,9 @@ body{
     width: 30%;
     float: left;
     margin: 10%;
+    margin-bottom: -100px;
 }
-.left-section{
 
-}
 .devide-main-section img{
     width: 100%;
 }
@@ -54,6 +53,7 @@ body{
 .devide-main-section p{
     margin-top: -65px;
     margin-right: 200px;
+    margin-bottom: 40px;
 }
 .link-button{
     text-decoration: none;
@@ -67,4 +67,14 @@ body{
     color:#FF8367;
     margin-top: -80px;
     font-weight: 500;
+}
+/*Making About Section*/
+.about-section p{
+   margin-top: 20px;
+   margin-right: 0;
+}
+.about-section h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    font-weight: 400;
 }
